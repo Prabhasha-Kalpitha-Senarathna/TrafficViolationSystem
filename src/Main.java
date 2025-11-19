@@ -39,7 +39,7 @@ public class Main {
                     running = false;
                     break;
                 default:
-                    System.out.println("⚠ Invalid choice. Please try again.\n");
+                    System.out.println("⚠ Invalid choice. Please try again later.\n");
             }
         }
         scanner.close();
